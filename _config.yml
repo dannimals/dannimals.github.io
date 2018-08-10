@@ -7,15 +7,15 @@ gem:                 [jekyll-paginate, jekyll-gists]
 # Setup
 title:               Sandbox
 tagline:             'A Collection of Things'
-description:         'A Collection of things I've found along the way.'
-# url:                 http://lanyon.getpoole.com
+description:         A collection of things I've picked up along the way.
+url:                 https://github.com/dannimals
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Danning Ge
-  url:               https://github.com/dannimals
+  url:               http://github.com/dannimals
 
 # Custom vars
 version:             1.0.0
